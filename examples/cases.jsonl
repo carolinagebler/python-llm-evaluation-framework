@@ -1,0 +1,2 @@
+{"id":"confirmation","response":"The validation is complete.","criteria":[{"kind":"contains","value":"complete"},{"kind":"not_contains","value":"failed"}]}
+{"id":"structured","response":"{\"status\":\"ok\",\"count\":2}","criteria":[{"kind":"json_keys","value":["status","count"]}]}
