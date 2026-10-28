@@ -1,8 +1,10 @@
 """Tests for the standalone synthetic financial metrics demonstration."""
 import json
+import sys
 import unittest
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 from llm_eval.finance_metrics import analyze_years, normalized_ebitda
 
 
