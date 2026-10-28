@@ -1,0 +1,56 @@
+{
+  "company": "Atlas Components (fictional)",
+  "sector": "Industrials (GICS 20)",
+  "currency": "USD millions",
+  "note": "Entirely synthetic figures for an educational demonstration; not derived from a company filing.",
+  "annual_financials": [
+    {
+      "year": 2022,
+      "revenue": 160,
+      "ebitda": 28,
+      "operating_cash_flow": 23,
+      "capex": 12,
+      "net_debt": 65,
+      "receivables": 25,
+      "inventory": 34,
+      "payables": 34,
+      "one_off_ebitda_effect": 0
+    },
+    {
+      "year": 2023,
+      "revenue": 175,
+      "ebitda": 32,
+      "operating_cash_flow": 30,
+      "capex": 15,
+      "net_debt": 70,
+      "receivables": 28,
+      "inventory": 38,
+      "payables": 37,
+      "one_off_ebitda_effect": 4
+    },
+    {
+      "year": 2024,
+      "revenue": 202,
+      "ebitda": 33,
+      "operating_cash_flow": 24,
+      "capex": 22,
+      "net_debt": 90,
+      "receivables": 37,
+      "inventory": 45,
+      "payables": 45,
+      "one_off_ebitda_effect": 0
+    },
+    {
+      "year": 2025,
+      "revenue": 225,
+      "ebitda": 30,
+      "operating_cash_flow": 16,
+      "capex": 27,
+      "net_debt": 118,
+      "receivables": 48,
+      "inventory": 60,
+      "payables": 57,
+      "one_off_ebitda_effect": -2
+    }
+  ]
+}
